@@ -1,10 +1,10 @@
-# Textures to display Japanese hiragana and katakana characters, using Google's Noto font
+# Textures to display Japanese characters, using Google's Noto font
 
-This mod adds kana characters texture to allow the Font API mod (from [display_modpack](https://github.com/pyrollo/display_modpack)) to display the syllabic Japanese characters.
+This mod adds characters texture to allow the Font API mod (from [display_modpack](https://github.com/pyrollo/display_modpack)) to display Japanese characters.
 
-This mod includes uppercase, lowercase and many accentuated latin letters, hiaragana, katakana and a huge amount of kanjis that is probably complete but excessive.
+This mod includes hiragana, katakana and an amount of kanjis that is probably complete but excessive.It also includes uppercase and lowercase latin letters.
 
-Be warned that it weights 31 MB uncompressed. In future version I shall restrict the amount of ideograms to the most commonly used (there are currently the 20 000 kanjis defined by the unicode standard)
+Be warned that it weights 31 MB uncompressed. In future versions I shall restrict the amount of ideograms to the most commonly used (there are currently the 20 000 kanjis defined by the unicode standard, but far less are in common use.)
 
 **Dependencies**: font_api
 
