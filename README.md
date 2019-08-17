@@ -6,6 +6,8 @@ This mod includes hiragana, katakana and an amount of kanjis that is probably co
 
 Be warned that it weights 31 MB uncompressed. In future versions I shall restrict the amount of ideograms to the most commonly used (there are currently the 20 000 kanjis defined by the unicode standard, but far less are in common use.)
 
+![screenshot](screenshot_jpsign.png)
+
 **Dependencies**: font_api
 
 **License**: code under LGPL v3.0, font under CC-BY-SA 3.0
