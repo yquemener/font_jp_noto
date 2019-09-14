@@ -4,7 +4,7 @@ This mod adds characters texture to allow the Font API mod (from [display_modpac
 
 This mod includes hiragana, katakana and an amount of kanjis that is probably complete but excessive.It also includes uppercase and lowercase latin letters.
 
-Be warned that it weights 31 MB uncompressed. In future versions I shall restrict the amount of ideograms to the most commonly used (there are currently the 20 000 kanjis defined by the unicode standard, but far less are in common use.)
+Be warned that it weights 21 MB uncompressed. In future versions I shall restrict the amount of ideograms to the most commonly used (there are currently the 20 000 kanjis defined by the unicode standard, but far less are in common use.)
 
 ![screenshot](screenshot_jpsign.png)
 
