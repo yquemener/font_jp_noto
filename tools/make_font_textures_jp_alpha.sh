@@ -104,8 +104,12 @@ generate 2010 2015
 # 2000-206f General Punctuation (Limited to Quotes)
 generate 2018 201F
 # 20a0-20cf Currency Symbols (Limited to Euro symbol)
-generate 20ac 20ac
+generate 20ac 203f
+# CJK punctuation
+generate 3000 303f
 # Kanas
 generate 3041 30ff
 # Brace yourself for 20 000 kanjis!
 generate 4e00 9faf
+# Hallwidth and Fullwidth characters
+generate ff00 ffef
